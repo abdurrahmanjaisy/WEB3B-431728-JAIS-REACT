@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/WEB3B-431728-JAIS-REACT/static/css/main.7259bae9.chunk.css",
+    "main.js": "/WEB3B-431728-JAIS-REACT/static/js/main.1562d371.chunk.js",
+    "main.js.map": "/WEB3B-431728-JAIS-REACT/static/js/main.1562d371.chunk.js.map",
+    "runtime-main.js": "/WEB3B-431728-JAIS-REACT/static/js/runtime-main.68689d37.js",
+    "runtime-main.js.map": "/WEB3B-431728-JAIS-REACT/static/js/runtime-main.68689d37.js.map",
+    "static/css/2.2fbe55bd.chunk.css": "/WEB3B-431728-JAIS-REACT/static/css/2.2fbe55bd.chunk.css",
+    "static/js/2.2a154198.chunk.js": "/WEB3B-431728-JAIS-REACT/static/js/2.2a154198.chunk.js",
+    "static/js/2.2a154198.chunk.js.map": "/WEB3B-431728-JAIS-REACT/static/js/2.2a154198.chunk.js.map",
+    "index.html": "/WEB3B-431728-JAIS-REACT/index.html",
+    "precache-manifest.a69f67e6504f6681d61227ba37c8e610.js": "/WEB3B-431728-JAIS-REACT/precache-manifest.a69f67e6504f6681d61227ba37c8e610.js",
+    "service-worker.js": "/WEB3B-431728-JAIS-REACT/service-worker.js",
+    "static/css/2.2fbe55bd.chunk.css.map": "/WEB3B-431728-JAIS-REACT/static/css/2.2fbe55bd.chunk.css.map",
+    "static/css/main.7259bae9.chunk.css.map": "/WEB3B-431728-JAIS-REACT/static/css/main.7259bae9.chunk.css.map",
+    "static/js/2.2a154198.chunk.js.LICENSE.txt": "/WEB3B-431728-JAIS-REACT/static/js/2.2a154198.chunk.js.LICENSE.txt",
+    "static/media/panenSayur.jpg": "/WEB3B-431728-JAIS-REACT/static/media/panenSayur.23f06eaa.jpg",
+    "static/media/picture.svg": "/WEB3B-431728-JAIS-REACT/static/media/picture.ff7d11c8.svg",
+    "static/media/ternakAyam.jpg": "/WEB3B-431728-JAIS-REACT/static/media/ternakAyam.b20198a8.jpg",
+    "static/media/ternakSapi.jpg": "/WEB3B-431728-JAIS-REACT/static/media/ternakSapi.b1a13f08.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68689d37.js",
+    "static/css/2.2fbe55bd.chunk.css",
+    "static/js/2.2a154198.chunk.js",
+    "static/css/main.7259bae9.chunk.css",
+    "static/js/main.1562d371.chunk.js"
+  ]
+}
