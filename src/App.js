@@ -1,40 +1,21 @@
 import React from 'react';
-import { Layout, Menu } from 'antd';
-import { Card, Row } from 'antd';
+import ReactDOM from 'react-dom';
+import {BrowserRouter} from "react-router-dom";
 import '../src/assets/css/App.css';
-import { UserOutlined, LaptopOutlined, NotificationOutlined } from '@ant-design/icons';
-const { SubMenu } = Menu;
+import Navbar from './common/layout/navbar-landing';
+import Routing from './common/router/router'
 
-const cardData = [
-  {
-    nama : "Abdurrahman Jaisy",
-    job : "Pedagang",
-  },
-  {
-    nama : "Muklas Rahmanto",
-    job : "Petani",
-  },
-  {
-    nama : "Bramantya Genta",
-    job : "Peternak",
-  },
-  {
-    nama : "Ruditya Candra",
-    job : "Pemahat",
-  },
-]
+class App extends React.Component {
 
-function App() {
-  return (
-    <div className="App">
-      {cardData.map(data => (
-        <Card title="Member Card" style={{ width: 500 }}>
-          <p className="name">{data.nama}</p>
-          <p className="job">{data.job}</p>
-        </Card>
-      ))}
-    </div>
-  );
+  render(){
+    return (
+      <div className="App">
+        <Navbar/>
+        <Routing/>
+      </div>
+    );
+  }
+  
 }
 
 export default App;
